@@ -79,9 +79,8 @@ Links to the Zoom meetings will appear on the course's Canvas page.
 5. **Extra Credit**: 
 
    - Some howmeworks have extra credit questions.
-   - Large number of good answers/questions on Piazza.  
-   - Attandance in the dicussions. 
-
+   - Large number of good answers/questions on Piazza.  
+   - Attandance in the dicussions. 
 ## Resources / Communication / Toolkits:
 
 **Book:** Although a textbook is not required in the course, the following textbook is optional and recommended. Lecture slides and recorded videos would be sufficient for this class.
