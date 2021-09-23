@@ -34,9 +34,9 @@ Wednesdays 4:00 pm to 4:50 pm
 
 **Office Hours:**
 
-Mondays  2:00pm  to 3:00 pm  (Aditya)
+Mondays  2:00pm  to 3:00 pm  (Gaurav) 
 
-Fridays    10:00am to 1:00 am (Gaurav)
+Fridays    10:00am to 1:00 am (Aditya)
 
 Tuesday  1:00pm  to 2:00 pm (Divija)
 
