@@ -18,7 +18,11 @@ Databases are at the heart of modern commercial application development. Their u
 
 **Course Assistants:**
 
-TBD
+[Aditya Lahiri](https://adityalahiri.github.io/), [adlahiri@ucsd.edu](mailto:adlahiri@ucsd.edu) 
+
+[Gaurav Kumar](https://dsc100.slack.com/team/U02CXHJ3G21), [gkumar@ucsd.edu](mailto:gkumar@ucsd.edu)
+
+[Divija Devarla](https://github.com/gaurav5590), [ddevarla@ucsd.edu](mailto:ddevarla@ucsd.edu)
 
 **Lectures**:
 
@@ -26,11 +30,13 @@ The lecture for this class will be ASYNCHRONOUS and discussion sections will be 
 
 **Discussion:**: 
 
-TBD
+Wednesdays: 4:00 pm
 
 **Office Hours:**
 
-TBD
+Mondays:  2:00pm PT
+
+Fridays:     10:00am PT
 
 **Zoom Meetings:** 
 
@@ -38,7 +44,7 @@ Links to the Zoom meetings will appear on the course's Canvas page.
 
 
 
-**Piazza:** [link](piazza.com/ucsd/fall2021/dsc100) (Requires access code posted on Canvas)
+**Piazza:** [https://piazza.com/ucsd/fall2021/dsc100](https://piazza.com/ucsd/fall2021/dsc100) (Requires access code posted on Canvas)
 
 **Have questions? Please email both Babak Salimi (bsalimi@ucsd.edu) and one of the TAs for questions on logistics. All other questions SHOULD be discussed on Piazza.**
 
