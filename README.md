@@ -30,13 +30,15 @@ The lecture for this class will be ASYNCHRONOUS and discussion sections will be 
 
 **Discussion:**: 
 
-Wednesdays: 4:00 pm
+Wednesdays 4:00 pm to 4:50 pm 
 
 **Office Hours:**
 
-Mondays:  2:00pm PT
+Mondays  2:00pm  to 3:00 pm  (Aditya)
 
-Fridays:     10:00am PT
+Fridays    10:00am to 1:00 am (Gaurav)
+
+Tuesday  1:00pm  to 2:00 pm (Divija)
 
 **Zoom Meetings:** 
 
