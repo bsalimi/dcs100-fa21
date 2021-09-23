@@ -50,7 +50,7 @@ Links to the Zoom meetings will appear on the course's Canvas page.
 
 | Week |           Description           | Discussions | **Assignments / Remarks** | Lectures | **Optional Reading** |
 | :--: | :-----------------------------: | :----: | ----- | --------------- | ---- |
-|  1   | Intro, Data models, SQL |  |       |  |  |
+|  1   | Intro, Data models, SQL |  |       | [Slides and Recordings](Lectures/lec01.md) |  |
 |  2   |   Join and Aggregates in SQL    |  |  |          |  |
 |  3   | Advanced SQL |  |  |          |  |
 |  4   |  Relational Algebra  |  |  |          |  |
