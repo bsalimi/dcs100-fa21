@@ -20,9 +20,9 @@ Databases are at the heart of modern commercial application development. Their u
 
 [Aditya Lahiri](https://adityalahiri.github.io/), [adlahiri@ucsd.edu](mailto:adlahiri@ucsd.edu) 
 
-[Gaurav Kumar](https://dsc100.slack.com/team/U02CXHJ3G21), [gkumar@ucsd.edu](mailto:gkumar@ucsd.edu)
+[Gaurav Kumar](https://github.com/gaurav5590), [gkumar@ucsd.edu](mailto:gkumar@ucsd.edu)
 
-[Divija Devarla](https://github.com/gaurav5590), [ddevarla@ucsd.edu](mailto:ddevarla@ucsd.edu)
+[Divija Devarla](https://in.linkedin.com/in/divija-devarla-7b8103ab), [ddevarla@ucsd.edu](mailto:ddevarla@ucsd.edu)
 
 **Lectures**:
 
