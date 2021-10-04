@@ -34,11 +34,13 @@ Wednesdays 4:00 pm to 4:50 pm
 
 **Office Hours:**
 
-Mondays  2:00pm  to 3:00 pm  (Gaurav) 
+Wedensday 3:30pm to 4:30pm (Babak)
 
-Fridays    10:00am to 11:00 am (Aditya)
+Mondays  2:00pm  to 3:00pm  (Gaurav) 
 
-Tuesday  1:00pm  to 2:00 pm (Divija)
+Fridays    10:00am to 11:00am (Aditya)
+
+Tuesday  1:00pm  to 2:00pm (Divija)
 
 **Zoom Meetings:** 
 
@@ -58,9 +60,9 @@ Links to the Zoom meetings will appear on the course's Canvas page.
 
 | Week |           Description           | Discussions | **Assignments / Remarks** | Lectures | **Optional Reading** |
 | :--: | :-----------------------------: | :----: | ----- | --------------- | ---- |
-|  1   | Intro, Data models, SQL |  |       | [Slides and Recordings](Lectures/lec01.md) | Sec. 2.1, 2.2, 2.3 |
-|  2   |   Join and Aggregates in SQL    |  |  |          |  |
-|  3   | Advanced SQL |  |  |          |  |
+|  1   | Intro, Data models, SQL | Sqlite practice [Source](https://drive.google.com/file/d/1hPmCCTVhdDo1vJKnZsJIR04oaWLwvbVw/view?usp=sharing), [Recording](https://drive.google.com/file/d/19B2zkzlwKL2wHlE6eW876vmEFgecEf3z/view?ts=606e5fc8) |       | [Slides and Recordings](Lectures/lec01.md) | Sec. 2.1, 2.2, 2.3 |
+|  2   |   Join and Aggregates in SQL    |  | WQ1 due: Introduction, Data Models, and Simple SQL  <br />HW1 due: Sqlite | [Slides and Recordings](Lectures/lec02.md) | Sec. 6.1, 6.2 |
+|  3   | Advanced SQL |  | HW2 due: Basic SQL <br />WQ2 due: SQL Aggregates |          |  |
 |  4   |  Relational Algebra  |  |  |          |  |
 | 5  |        Midterm        |  |  |  |  |
 |  6   | Query Evaluation, Basics of Data Storage and Indexes |  |  |  |  |
