@@ -34,13 +34,17 @@ Wednesdays 4:00 pm to 4:50 pm
 
 **Office Hours:**
 
-Thursdays 3:30pm to 4:30pm (Babak)
 
-Mondays  2:00pm  to 3:00pm  (Gaurav) 
 
-Fridays    10:00am to 11:00am (Aditya)
+Mondays     2:00pm  to 3:00pm     (Gaurav) 
 
-Tuesday  1:00pm  to 2:00pm (Divija)
+Tuesdays    1:00pm  to 2:00pm      (Divija)
+
+Thursdays  3:30pm to 4:30pm       (Babak)
+
+Fridays        10:00am to 11:00am   (Aditya)
+
+
 
 **Zoom Meetings:** 
 
