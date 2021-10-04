@@ -34,7 +34,7 @@ Wednesdays 4:00 pm to 4:50 pm
 
 **Office Hours:**
 
-Wedensday 3:30pm to 4:30pm (Babak)
+Thursdays 3:30pm to 4:30pm (Babak)
 
 Mondays  2:00pm  to 3:00pm  (Gaurav) 
 
