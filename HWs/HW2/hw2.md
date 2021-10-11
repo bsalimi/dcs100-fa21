@@ -1,12 +1,15 @@
-# DSC    Homework 2: Basic SQL Queries
+# DSC 100 Homework 2: Basic SQL Queries
 
 **Objectives:** To create and import databases and to connect to existing SQLite databases and to practice simple SQL queries using SQLite.
 
-**Assignment tools:** [SQLite 3](https://www.sqlite.org/), the `chinook` and `flight` datasets are shared in the [Google Drive](https://drive.google.com/drive/folders/1cjj39CUdctlVCCAvhD91Xc6pce0Wjzxz?usp=sharing).
+**Assignment tools:** [SQLite 3](https://www.sqlite.org/), the `chinook` and `flight` datasets are hosted on [Google Drive](https://drive.google.com/drive/folders/1cjj39CUdctlVCCAvhD91Xc6pce0Wjzxz?usp=sharing): 
+
+ 
 
 ## Assignment Details
 
 In this homework, you will write queries for two databases, `chinook` and `flight`. 
+**Submit** one zipped folder containing all the `.sql` files from Part I and Part II on Canvas. Follow the naming convention `LastName_FirstName_PID.zip`. Please don't submit separate `.sql` files!!
 
 **Part I: CHINOOK dataset**   
 
@@ -14,9 +17,9 @@ In this homework, you will write queries for two databases, `chinook` and `fligh
 
  `hw2-1.1.sql`, `hw2-1.2.sql`, etc (see below).
 
-The `chinook` database is an open source SQLite database consist of information about various elements in a fictional digital music store, such as artists, albums, employees, and customers.  This information is contained in eleven tables.
+The `chinook` database is an open source SQLite database consisting of information about various elements in a fictional digital music store, such as artists, albums, employees, and customers.  This information is contained in eleven tables.
 
-Use the following command to connect to the `chinook` database located [here](https://drive.google.com/drive/folders/1c0lOmA1C-5UEcf--omJlF76p8bR-05fQ?usp=sharing): 
+Use the following command to connect to the `chinook` database located [here](https://drive.google.com/drive/folders/1cjj39CUdctlVCCAvhD91Xc6pce0Wjzxz?usp=sharing): 
 
 ```sqlite
 sqlite3  .../chinook.db
@@ -72,27 +75,27 @@ If a query uses a `GROUP BY` clause, make sure that all attributes in your `SELE
 are either grouping keys or aggregate values. SQLite will let you select other attributes but that is wrong
 as we discussed in lectures. Other database systems would reject the query in that case. 
 
-1. (5 points)  Find all the tracks that have a length of 1,000,000 milliseconds or less
+1. (5 points)  Find all the tracks that have a length of 1,000,000 milliseconds or less. Return only the TrackId column.
 
    [Output relation cardinality: 1 row]
 
-2. (5 points)  Find all the invoices from the billing country USA, and Canada and sort in descending order by invoice ID.
+2. (5 points)  Find all the invoices from the billing country USA, and Canada and sort in descending order by invoice ID. Return two attributes - invoiceID and Total.
 
    [Output relation cardinality: 147 rows]
 
-3. (5 points)  Find the albums with 25 or more tracks.
+3. (5 points)  Find the albums with 25 or more tracks. Return albumId and count of tracks for each albumId.
 
    [Output relation cardinality: 4 rows]
 
-4. (5 points)  Write a query that returns a table consists of the billing countries and the number of invoices for each country sorted by the country name. 
+4. (5 points)  Write a query that returns a table consisting of the billing countries and the number of invoices for each country sorted by the country name. Your output should include BillingCountry attribute and a count column for number of invoices.
 
    [Output relation cardinality: 24 rows]
 
-5. (10 points)  Write a query that returns a table consists of the customers and the total amount of money spent by each customer.  
+5. (10 points)  Write a query that returns a table consisting of the customers and the total amount of money spent by each customer.  Output customerID attribute and total money spent.
 
    [Output relation cardinality: 59 rows]
    
-6. (10 points)  Write a query that returns the costumer that are Blues listeners.
+6. (10 points)  Write a query that returns the custumerId for customers that are Blues listeners. 
 
    [Output relation cardinality: 1 rows]
 
@@ -186,16 +189,15 @@ See examples of `.import` statements in the section notes, and also look at the 
 documentation or sqlite3's help online for details.
 
 
-### Writing SQL QUERIES (80 points, 10 points each)
+### Writing SQL QUERIES (40 points, 10 points each)
 
 **HINT: You should be able to answer all the questions below with SQL queries that do NOT contain any subqueries!**
 
 For each question below, write a single SQL query to answer that question.
-Put each of your queries in a separate `.sql` file as in HW1, i.e., `hw2-q1.sql`, `hw2-q2.sql`, etc.
-Add a comment in each file indicating the number of rows in the query result.
+Put each of your queries in a separate `.sql` file (`hw2-2.1.sql`, `hw2-2.2.sql`, etc) and add a comment in each file indicating the number of rows in the query result.
 
 In the following questions below flights **include canceled flights as well, unless otherwise noted.** 
-Also, when asked to output times you can report them in minutes and don’t need to do minute-hour conversion.
+Also, when asked to output times you can report them in minutes and don't need to do minute-hour conversion.
 
 
 
