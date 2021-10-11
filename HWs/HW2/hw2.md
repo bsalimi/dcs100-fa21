@@ -1,4 +1,4 @@
-# DSC  344 Homework 2: Basic SQL Queries
+# DSC    Homework 2: Basic SQL Queries
 
 **Objectives:** To create and import databases and to connect to existing SQLite databases and to practice simple SQL queries using SQLite.
 
