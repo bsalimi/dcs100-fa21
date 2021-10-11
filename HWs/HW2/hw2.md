@@ -19,7 +19,7 @@ In this homework, you will write queries for two databases, `chinook` and `fligh
 
 The `chinook` database is an open source SQLite database consisting of information about various elements in a fictional digital music store, such as artists, albums, employees, and customers.  This information is contained in eleven tables.
 
-Use the following command to connect to the `chinook` database located [here](https://drive.google.com/drive/folders/1cjj39CUdctlVCCAvhD91Xc6pce0Wjzxz?usp=sharing): 
+Use the following command to connect to the `chinook` database: 
 
 ```sqlite
 sqlite3  .../chinook.db
