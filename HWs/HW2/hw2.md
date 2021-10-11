@@ -2,7 +2,7 @@
 
 **Objectives:** To create and import databases and to connect to existing SQLite databases and to practice simple SQL queries using SQLite.
 
-**Assignment tools:** [SQLite 3](https://www.sqlite.org/), the `chinook` and `flight` datasets are hosted on [Google Drive](https://drive.google.com/drive/folders/11Q6oUYCtl0VEIgsHIRJupa1EIR0d4aTA?usp=sharing): 
+**Assignment tools:** [SQLite 3](https://www.sqlite.org/), the `chinook` and `flight` datasets are hosted on [Google Drive](https://drive.google.com/drive/u/1/folders/11Q6oUYCtl0VEIgsHIRJupa1EIR0d4aTA): 
 
  
 
