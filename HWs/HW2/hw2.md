@@ -75,31 +75,41 @@ If a query uses a `GROUP BY` clause, make sure that all attributes in your `SELE
 are either grouping keys or aggregate values. SQLite will let you select other attributes but that is wrong
 as we discussed in lectures. Other database systems would reject the query in that case. 
 
-1. (5 points)  Find all the tracks that have a length of 1,000,000 milliseconds or less. Return only the TrackId column.
+1. (5 points)  Find all the tracks that have a length of 1,000,000 milliseconds or less. 
+
+   Return only the `TrackId column`.
 
    [Output relation cardinality: 1 row]
 
-2. (5 points)  Find all the invoices from the billing country USA, and Canada and sort in descending order by invoice ID. Return two attributes - invoiceID and Total.
+2. (5 points)  Find all the invoices from the billing country USA, and Canada and sort in descending order by invoice ID. 
+
+   Return two attributes - `invoiceID` and `Total`.
 
    [Output relation cardinality: 147 rows]
 
-3. (5 points)  Find the albums with 25 or more tracks. Return albumId and count of tracks for each albumId.
+3. (5 points)  Find the albums with 25 or more tracks. 
+
+   Return `albumId` and` count` of tracks for each albumId.
 
    [Output relation cardinality: 4 rows]
 
-4. (5 points)  Write a query that returns a table consisting of the billing countries and the number of invoices for each country sorted by the country name. Your output should include BillingCountry attribute and a count column for number of invoices.
+4. (5 points)  Write a query that returns a table consisting of the billing countries and the number of invoices for each country sorted by the country name.
+
+    Your output should include `BillingCountry` attribute and a `count` column for number of invoices.
 
    [Output relation cardinality: 24 rows]
 
-5. (10 points)  Write a query that returns a table consisting of the customers and the total amount of money spent by each customer.  Output customerID attribute and total money spent.
+5. (10 points)  Write a query that returns a table consisting of the customers and the total amount of money spent by each customer.  
+
+   Output `customerID` attribute and `total` money spent.
 
    [Output relation cardinality: 59 rows]
-   
+
 6. (10 points)  Write a query that returns the custumerId for customers that are Blues listeners. 
 
    [Output relation cardinality: 1 rows]
 
-7.  (10 points)  Write a query that returns the artist name and total number of tracks of the Blues bands.
+7. (10 points)  Write a query that returns the artist name and total number of tracks of the Blues bands.
 
    [Output relation cardinality: 1 rows]
 
