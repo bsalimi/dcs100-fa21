@@ -103,11 +103,11 @@ as we discussed in lectures. Other database systems would reject the query in th
 
    Output `customerID` attribute and `total` money spent.
 
-   [Output relation cardinality: 412 rows]
-
-6. (10 points)  Write a query that returns the custumerId for customers that are Blues listeners. 
-
    [Output relation cardinality: 59 rows]
+
+6. (10 points)  Write a query that returns the `custumerId` for customers that are Blues listeners. The answer should not contain duplicates. 
+
+   [Output relation cardinality: 23 rows]
 
 7. (10 points)  Write a query that returns the artist name and total number of tracks of the Blues bands.
 
