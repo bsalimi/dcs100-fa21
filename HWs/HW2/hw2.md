@@ -79,7 +79,7 @@ as we discussed in lectures. Other database systems would reject the query in th
 
    Return only the `TrackId column`.
 
-   [Output relation cardinality: 1 row]
+   [Output relation cardinality: 3288 row]
 
 2. (5 points)  Find all the invoices from the billing country USA, and Canada and sort in descending order by invoice ID. 
 
@@ -91,7 +91,7 @@ as we discussed in lectures. Other database systems would reject the query in th
 
    Return `albumId` and` count` of tracks for each albumId.
 
-   [Output relation cardinality: 4 rows]
+   [Output relation cardinality: 6 rows]
 
 4. (5 points)  Write a query that returns a table consisting of the billing countries and the number of invoices for each country sorted by the country name.
 
@@ -103,15 +103,15 @@ as we discussed in lectures. Other database systems would reject the query in th
 
    Output `customerID` attribute and `total` money spent.
 
-   [Output relation cardinality: 59 rows]
+   [Output relation cardinality: 412 rows]
 
 6. (10 points)  Write a query that returns the custumerId for customers that are Blues listeners. 
 
-   [Output relation cardinality: 1 rows]
+   [Output relation cardinality: 59 rows]
 
 7. (10 points)  Write a query that returns the artist name and total number of tracks of the Blues bands.
 
-   [Output relation cardinality: 1 rows]
+   [Output relation cardinality: 5 rows]
 
    
 
