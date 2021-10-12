@@ -221,11 +221,11 @@ Also, when asked to output times you can report them in minutes and don't need t
 3. (10 points) Write a query that returns the name and the percentage of canceled flight out of San Diego for all the airlines that more than 1% of their flight out of San Diego cancelled. 
    Order the results by the percentage of canceled flights in ascending order.    
    Name the output columns `name` and `percent`, in that order.   
-   [Output relation cardinality: 6 rows]
+   [Output relation cardinality: 5 rows]
 4. (10 points) Find the names of all airlines that ever flew more than 5000 flights in one month from california
    Return the names of the airlines and the number of flights. Do not return any duplicates 
    Name the output columns `name` and `flightcount` 
-   [Output relation cardinality: 12 rows]
+   [Output relation cardinality: 6 rows]
 
 
 
