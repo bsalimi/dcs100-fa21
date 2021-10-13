@@ -215,7 +215,7 @@ Also, when asked to output times you can report them in minutes and don't need t
    across all flights.
    Name the output columns `name` and `delay`, in that order.
    [Output relation cardinality: 22 rows]
-2. (10 points)  Find the total capacity of all direct flights between San Diego and San Francisco on January  (i.e. SD to SF or SF to SD).   
+2. (10 points)  Find the total capacity of all direct flights between San Diego and San Francisco on July 1th  (i.e. SD to SF or SF to SD).   
    Name the output column `totalcapacity`.   
    [Output relation cardinality: 1 row]
 3. (10 points) Write a query that returns the name and the percentage of canceled flight out of San Diego for all the airlines that more than 1% of their flight out of San Diego cancelled. 
