@@ -67,8 +67,8 @@ Links to the Zoom meetings will appear on the course's Canvas page.
 |  1   | Intro, Data models, SQL | Sqlite practice [Source](https://drive.google.com/file/d/1hPmCCTVhdDo1vJKnZsJIR04oaWLwvbVw/view?usp=sharing), [Recording](https://drive.google.com/file/d/1bAu5O5ZkWtZtG_9pbExv30p4-y3rPmYj/view?usp=sharing) |       | [Slides and Recordings](Lectures/lec01.md) | Sec. 2.1, 2.2, 2.3 |
 |  2   |   Join and Aggregates in SQL    |  | WQ1 due: Introduction, Data Models, and Simple SQL  <br />HW1 due: Sqlite | [Slides and Recordings](Lectures/lec02.md) | Sec. 6.1, 6.2 |
 |  3   | Advanced SQL |  | HW2 due: Basic SQL <br />WQ2 due: SQL Aggregates | [Slides and recordings](./Lectures/lec03.md) |  |
-|  4   |  Relational Algebra  |  |  |          |  |
-| 5  |        Midterm        |  |  |  |  |
+|  4   |  Relational Algebra  |  |  | [Slides and recordings](./Lectures/lec04.md) |  |
+| 5  |        Midterm        |  | HW3 due: Advanced SQL |  |  |
 |  6   | Query Evaluation, Basics of Data Storage and Indexes |  |  |  |  |
 |  7   |         Cost Estimation <br /> NoSQL Databases         |  |  |  |  |
 |  8   | Conceptual Design |  |  |  |  |
