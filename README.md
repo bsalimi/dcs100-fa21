@@ -70,7 +70,7 @@ Links to the Zoom meetings will appear on the course's Canvas page.
 |  4   |  Relational Algebra  | Relational Algebra [Source](https://piazza.com/redirect/s3?bucket=uploads&prefix=paste%2Fkti1ku2x6td1p0%2F903b05e3a1546a1f4b010277c194aa311676d9f18dd44b72115228a660a81439%2FRelational_Algebra.zip) [Recording](https://ucsd.zoom.us/rec/play/yl1KfQPMa21KRUM3Zkamh8JXpkslSgPcS5by9Lcz4BfNG1mbT9NSq_2RR0qT66NrOGNo_HtiqiyCqcLH.UDllfxlH0ltNALws) ,     Troubleshooting PostgreSQL [Recording]([https://ucsd.zoom.us/rec/share/a9yg8DMTlGLBW4AfYDdGBAGgRXXjv4s3bsrfwdxAg9XDWo1mV6VJ69yfkCE_cIKW.BYNBEM4pTD_SOrjt](https://urldefense.proofpoint.com/v2/url?u=https-3A__ucsd.zoom.us_rec_share_a9yg8DMTlGLBW4AfYDdGBAGgRXXjv4s3bsrfwdxAg9XDWo1mV6VJ69yfkCE-5FcIKW.BYNBEM4pTD-5FSOrjt&d=DwQFAg&c=-35OiAkTchMrZOngvJPOeA&r=BMZcSMPm7tho8CPnV6FIMA&m=qbWjlFL6g3EHRc6d9tyOyIEZk_TDY-qUFbK8QZ8wk_4&s=fZjhu_Jks7jvFRsjQn3hw8oxj4NXkTsXK-VswF5YM-8&e=)) |  | [Slides and recordings](./Lectures/lec04.md) |  |
 | 5  |        Query Evaluation, Midterm        | Midterm Pratice [Recording](https://ucsd.zoom.us/rec/play/5zvL91v89AjWAW2COicPZW7CatdYYnUzX6Txsr5j8aWbWqsbvoxzBV5nY0cMFaqTD56GecJsy_VgW7FU.rt08h2wj3OqyKXdz) | WQ3 due: SQL Aggregates | [Slides and recordings](./Lectures/lec05.md) |  |
 |  6   | Basics of Data Storage and Indexes |  | HW3 due: Advanced SQL | [Slides and recordings](./Lectures/lec06.md) |  |
-|  7   |         Cost Estimation <br /> NoSQL Databases         |  |  | [Slides and recordings](./Lectures/lec07.md) |  |
+|  7   |         Cost Estimation,  NoSQL Databases         |  |  | [Slides and recordings](./Lectures/lec07.md) |  |
 |  8   | Conceptual Design |  |  |  |  |
 |  9  | BCNF, Transactions |  |  |  |  |
 | 10 | Advance Topic |  |  |  |  |
