@@ -71,7 +71,7 @@ Links to the Zoom meetings will appear on the course's Canvas page.
 | 5  |        Query Evaluation, Midterm        | Midterm Pratice [Recording](https://ucsd.zoom.us/rec/play/5zvL91v89AjWAW2COicPZW7CatdYYnUzX6Txsr5j8aWbWqsbvoxzBV5nY0cMFaqTD56GecJsy_VgW7FU.rt08h2wj3OqyKXdz) | WQ3 due: SQL Aggregates | [Slides and recordings](./Lectures/lec05.md) |  |
 |  6   | Basics of Data Storage and Indexes |  | HW3 due: Advanced SQL | [Slides and recordings](./Lectures/lec06.md) |  |
 |  7   |         Cost Estimation,  NoSQL Databases         |  |  | [Slides and recordings](./Lectures/lec07.md) |  |
-|  8   | Conceptual Design |  | HW4 due: Relational Algebra | [Slides and recordings](./Lectures/lec08.md) | Sec. 4.1, 4.6 |
+|  8   | Conceptual Design |  | HW4 due: Relational Algebra, Mini Project Due | [Slides and recordings](./Lectures/lec08.md) | Sec. 4.1, 4.6 |
 |  9  | BCNF, Transactions |  |  |  |  |
 | 10 | Advance Topic |  |  |  |  |
 
