@@ -72,7 +72,7 @@ Links to the Zoom meetings will appear on the course's Canvas page.
 |  6   | Basics of Data Storage and Indexes |  | HW3 due: Advanced SQL | [Slides and recordings](./Lectures/lec06.md) |  |
 |  7   |         Cost Estimation,  NoSQL Databases         |  |  | [Slides and recordings](./Lectures/lec07.md) |  |
 |  8   | Conceptual Design |  | HW4 due: Relational Algebra, Mini Project Due | [Slides and recordings](./Lectures/lec08.md) | Sec. 4.1, 4.6 |
-|  9  | BCNF, Transactions |  | WQ4 due: RA and Conceptual Design | [Slides and recordings](./Lectures/lec09.md) |  |
+|  9  | BCNF, Transactions |  | WQ4 due: Conceptual Design | [Slides and recordings](./Lectures/lec09.md) |  |
 | 10 | Advance Topic |  | HW5 due: Conceptual Design |  |  |
 
 *Note:*  The slides are adopted from the UW database group. 
